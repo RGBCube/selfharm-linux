@@ -1,5 +1,4 @@
-Selfharm Linux
-=============
+# Selfharm Linux
 
 Selfharm Linux is now available from the comfort of Docker!
 
@@ -11,11 +10,11 @@ With a single command, an instance of _Selfharm Stretch_ will be downloaded and 
 >
 >It's a game. Like walking a tightrope. You have to see how long you can continue to use the operating system before your operating system crashes.
 
-> I love my /etc/audit/plugins.d
+> I love my /etc/system.d
 > 
-> \*Execute sdo pacman -S docker\*
+> \*Execute docekr*
 > 
-> Where is my /etc/audit/plugins.d
+> Where is my /etc/system.d
 
 ![screenshot](screenshot.png)
 
