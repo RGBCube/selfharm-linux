@@ -3,7 +3,6 @@
 # Set warning message
 echo " ==================================="
 echo " WARNING: Selfharm-Linux installed"
-echo "          (https://qntm.org/suicide)"
 echo " ==================================="
 
 # If not running interactively, don't do anything
