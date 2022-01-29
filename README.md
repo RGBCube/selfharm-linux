@@ -12,8 +12,6 @@ With a single command, an instance of _Selfharm Stretch_ will be downloaded and 
 
 > I love my /etc/system.d
 > 
-> \*Execute docekr*
-> 
 > Where is my /etc/system.d
 
 ![screenshot](screenshot.png)
