@@ -1,21 +1,23 @@
-Suicide Linux
+Selfharm Linux
 =============
 
-[Suicide Linux](https://qntm.org/suicide) is now available from the comfort of Docker!
+Selfharm Linux is now available from the comfort of Docker!
 
-With a single command, an instance of _Suicide Stretch_ will be downloaded and booted up, for all your suicidal needs.
+With a single command, an instance of _Selfharm Stretch_ will be downloaded and booted up, for all your suicidal needs.
 
 >You know how sometimes if you mistype a filename in Bash, it corrects your spelling and runs the command anyway? Such as when changing directory, or opening a file.
 >
->I have invented Suicide Linux. Any time - any time - you type any remotely incorrect command, the interpreter creatively resolves it into rm -rf / and wipes your hard drive.
+>I have forked Suicide Linux, and created Selfharm Linux. Any time - any time - you type any remotely incorrect command, the interpreter will delete a random file from your hard disk.
 >
->It's a game. Like walking a tightrope. You have to see how long you can continue to use the operating system before losing all your data.
+>It's a game. Like walking a tightrope. You have to see how long you can continue to use the operating system before your operating system crashes.
 
--- https://qntm.org/suicide
-
-![screenshot](screenshot.png)
+> I love my linocx
+> 
+> \*Execut sdo pacman -S docker\*
+> 
+> Where is my linocx
 
 Running
 -------
 
-    docker run --rm -it -t tiagoad/suicide-linux
+    docker run --rm -it -t rgbcube/selfharm-linux // soon
