@@ -17,6 +17,8 @@ With a single command, an instance of _Selfharm Stretch_ will be downloaded and 
 > 
 > Where is my /etc/audit/plugins.d
 
+![screenshot](screenshot.png)
+
 Running
 -------
 
