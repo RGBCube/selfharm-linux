@@ -20,4 +20,4 @@ With a single command, an instance of _Selfharm Stretch_ will be downloaded and 
 Running
 -------
 
-    docker run --rm -it -t rgbcube/selfharm-linux // soon
+    docker run --rm -it -t rgbcube/selfharm-linux
