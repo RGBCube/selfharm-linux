@@ -11,11 +11,11 @@ With a single command, an instance of _Selfharm Stretch_ will be downloaded and 
 >
 >It's a game. Like walking a tightrope. You have to see how long you can continue to use the operating system before your operating system crashes.
 
-> I love my linocx
+> I love my /etc/audit/plugins.d
 > 
-> \*Execut sdo pacman -S docker\*
+> \*Execute sdo pacman -S docker\*
 > 
-> Where is my linocx
+> Where is my /etc/audit/plugins.d
 
 Running
 -------
