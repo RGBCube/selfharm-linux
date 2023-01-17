@@ -1,5 +1,6 @@
 *
 
+!.gitignore
 !Dockerfile
 !bash.bashrc
 !*.md
